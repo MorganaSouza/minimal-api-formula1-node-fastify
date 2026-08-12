@@ -145,19 +145,19 @@ PUT /products/:id
 DELETE /products/:id
 ```
 
-# 👩‍💻 Author
+# Author
 
 **Morgana Souza**
 
 Systems Analysis and Development Student
 
-# 🎓 Project
+#  Project
 
 This project was developed as a practical challenge focused on building a Minimal API using Node.js, TypeScript and Fastify.
 
 The original Formula 1 theme was adapted into a beauty and self-care products API.
 
-# 📌 Credits
+#  Credits
 
 Developed as part of the DIO bootcamp challenge.
 
