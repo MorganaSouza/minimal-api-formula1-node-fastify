@@ -1,4 +1,4 @@
-````markdown
+
 <div align="center">
 
   <img src="./.github/assets/glow-api.png" alt="Glow API" height="200">
