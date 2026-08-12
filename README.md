@@ -145,11 +145,11 @@ PUT /products/:id
 DELETE /products/:id
 ```
 
-# Author
+## Author
 
-**Morgana Souza**
-
-Systems Analysis and Development Student
+| [<img src="https://github.com/MorganaSouza.png?size=96" width="96"><br><sub>Morgana Souza</sub>](https://github.com/MorganaSouza) |
+| :----------------------------------------------------------------------------------------------------------------------------------: |
+| [LinkedIn](https://www.linkedin.com/in/morganaassis/) |
 
 #  Project
 
@@ -157,11 +157,11 @@ This project was developed as a practical challenge focused on building a Minima
 
 The original Formula 1 theme was adapted into a beauty and self-care products API.
 
-#  Credits
+# Credits
 
 Developed as part of the DIO bootcamp challenge.
 
-Inspired by the concepts presented by Felipe Aguiar.
+Inspired by the concepts presented by [Felipe Aguiar](https://github.com/felipeAguiarCode).
 
 ---
 
